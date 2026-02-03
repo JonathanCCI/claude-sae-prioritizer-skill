@@ -65,7 +65,7 @@ HubSpot:search_crm_objects
           operator: "EQ"
           value: "true"
   properties: ["name", "domain", "big_bet", "hs_is_target_account", "industry"]
-  limit: 100
+  limit: 300
 ```
 
 Focus = big_bet is true
